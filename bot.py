@@ -54,7 +54,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_video(
         chat_id=update.effective_chat.id,
         video=open(filename, "rb"),
-        caption="✅ **Download concluído com sucesso pelo Lunalt! 😎**",
+        caption="✅ **Download concluído! Lunalt by @Brunolunax 😎**",
         parse_mode="Markdown",
     )
 
