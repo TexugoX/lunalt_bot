@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="lunalt_bot_avatar_v4" src="https://github.com/user-attachments/assets/bff8f497-8b69-4192-8b88-1c901132a1e5" />
+
 # 🌙 Lunalt Bot
 
 > Um bot de Telegram autônomo, rápido e eficiente para download de mídias de diversas plataformas sociais (YouTube, TikTok, Instagram e mais), alimentado por `yt-dlp` e Python.
