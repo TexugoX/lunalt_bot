@@ -1,4 +1,5 @@
-<img width="512" height="512" alt="lunalt_bot_avatar_v4" src="https://github.com/user-attachments/assets/bff8f497-8b69-4192-8b88-1c901132a1e5" />
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/da2944c6-6ea7-4607-bc22-3527f1b067fb" />
+
 
 # 🌙 Lunalt Bot
 
